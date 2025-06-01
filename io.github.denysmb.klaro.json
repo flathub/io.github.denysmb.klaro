@@ -58,8 +58,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/DenysMb/Klaro.git",
-                    "tag": "1.0.0",
-                    "commit": "1530ed04c028644119cf4bde6fe78b799f7c412e"
+                    "tag": "1.0.1",
+                    "commit": "36b94dbf5ab09bb797fcd9dd9087240eb0467a6b"
                 }
             ]
         }
